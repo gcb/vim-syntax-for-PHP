@@ -21,7 +21,7 @@
 "           php_parent_error_close = 1  for highlighting parent error ] or )
 "           php_parent_error_open = 1  for skipping an php end tag, if there exists an open ( or [ without a closing one
 "           php_oldStyle = 1  for using old colorstyle
-"           php_noShortTags = 1  don't sync <? ?> as php
+"           php_noShortTags = 1  don't sync shorttags <? or echo tags <?= as php
 "           php_folding = 1  for folding classes and functions
 "           php_folding = 2  for folding all { } regions
 "           php_sync_method = x
